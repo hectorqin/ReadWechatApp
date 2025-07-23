@@ -1,42 +1,55 @@
+
 {
   "pages": [
-    "pages/bookshelf/bookshelf",
-    "pages/details/details",
-    "pages/bookCity/bookCity",
-    "pages/bookCats/bookCats",
-    "pages/reader/reader",
-    "pages/search/search",
-    "pages/rank/rank",
-    "pages/help/help"
+    "pages/index/index",
+    "pages/select/index",
+    "pages/answer/index",
+    "pages/history/index",
+    "pages/answerErr/index",
+    "pages/answerInfo/index",
+    "pages/result/index",
+    "pages/analysis/index",
+    "pages/wrong/index",
+    "pages/wrongAnswer/index",
+    "pages/rank/index",
+    "pages/rankList/index",
+    "pages/my/index",
+    "pages/historyList/index",
+    "pages/feedback/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "免费小说阅读器",
-    "navigationBarTextStyle": "black"
+    "navigationBarBackgroundColor": "#2db7f5",
+    "navigationBarTitleText": "答题酷",
+    "navigationBarTextStyle": "#fff"
   },
   "tabBar": {
-    "color": "#333",
-    "selectedColor": "#cb1c36",
-    "backgroundColor": "#fff",
+    "selectedColor": "#2db7f5",
+    "color": "#909090",
     "list": [
       {
-        "iconPath": "img/mybook.png",
-        "selectedIconPath": "img/selectedMybook.png",
-        "pagePath": "pages/bookshelf/bookshelf",
-        "text": "书架"
+        "text": "答题",
+        "iconPath": "images/answer.png",
+        "selectedIconPath": "images/answer-select.png",
+        "pagePath": "pages/select/index"
       },
       {
-        "iconPath": "img/book.png",
-        "selectedIconPath": "img/selectedBook.png",
-        "pagePath": "pages/bookCity/bookCity",
-        "text": "书城"
+        "text": "错题",
+        "iconPath": "images/wrong.png",
+        "selectedIconPath": "images/wrong-select.png",
+        "pagePath": "pages/wrong/index"
       },
       {
-        "iconPath": "img/search.png",
-        "selectedIconPath": "img/selectedSearch.png",
-        "pagePath": "pages/search/search",
-        "text": "搜索"
+        "text": "排名",
+        "iconPath": "images/sort.png",
+        "selectedIconPath": "images/sort-select.png",
+        "pagePath": "pages/rank/index"
+      },
+      {
+        "text": "我的",
+        "iconPath": "images/my.png",
+        "selectedIconPath": "images/my-select.png",
+        "pagePath": "pages/my/index"
       }
     ]
   }

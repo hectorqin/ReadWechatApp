@@ -1,33 +1,45 @@
-# 免费小说阅读器
+###  如果本项目对您有帮助，麻烦右上角点击一下Star，感谢！！！希望能给更多人带来帮助。
 
-### 使用源码请先star一下。
+## 介绍
+微信小程序，考试小程序，答题小程序，刷题小程序。支持PC,H5,小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试，企业内部考核，内部培训等，职业考试刷题；
 
-### 项目介绍
+## 合作&&定制
 
-* 全网免费小说，功能齐全，书架、分类、各大排行榜，搜索、详情页，评论、阅读、夜间模式，字体大小，目录。
+如果您是某某培训机构，学校，政府，公司，事业单位，需要单独搭建程序的，**[欢迎点击主页查看联系方式](https://gitee.com/kesixin)**，可以提供部署和定制开发服务。
 
-* 小说是自动更新的，数据来源第三方API，无依赖库。
 
-* 学习到的东西很多，强大的文字排版功能。
 
-* 搜索，分类，排行榜的可以点击添加到书架。
+## 小程序功能截图
+| 主界面  | 题目搜索 | 分类 |
 
-* 只需 要修改小程序appid和在小程序公众号中添加服务器域名（开发工具有添加域名提示），就可以发布小程序了。
+<img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2025-01-09/421474a5c7ea71e09393ddfa074a713c.jpg" width = "30%"> 
+<img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2025-01-09/3b76e7497ac420e6a4a7802cd4bfe791.jpg" width = "30%"> 
+<img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2025-01-09/1933a1084d18a3ff56e35441920cee91.jpg" width = "30%">
 
-* 使用问题咨询QQ：903363777
+| h5  | 分类 | 答题 |
 
-### 项目运行截图
+<img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2025-01-09/8c32e210d0193f27524b6b5667b7650e.jpg" width = "30%"> 
+<img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2025-01-09/d579a1096ccda162b2b6fbd8d3446693.jpg" width = "30%"> 
+<img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2025-01-09/802c77e0c66dc442e6d4a30ffc6ad361.jpg" width = "30%">
 
-![](https://bmob-cdn-19897.bmobcloud.com/2019/06/12/c10138d24014765f8057d9091c49a580.jpg)
+| 管理后台 |
 
-![](https://bmob-cdn-19897.bmobcloud.com/2019/06/12/cb45b4b8400cf33680f0ea21deffbf8d.jpg)
+<img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2025-01-09/b78ddd224a39db98b7d72e16f30b9f52.jpg" width = "30%"> 
 
-![](https://bmob-cdn-19897.bmobcloud.com/2019/06/12/848dfa0740e239b9805ef750dc7c88e7.jpg)
 
-![](https://bmob-cdn-19897.bmobcloud.com/2019/06/12/4971533c40076a9c80ae2ca353f284eb.jpg)
 
-![](https://bmob-cdn-19897.bmobcloud.com/2019/06/12/92534a3d40efb3e5802a84ffb155aee1.jpg)
+## 适用场景
+     1 ·企业招聘考试。系统实时生成结果，一个简单的考核就可让面试官提前了解候选人的能力情况。在大规模校园聘会上公布考试地址，考生现场完成考试，现场出分，主办方可快速筛选合格考生参加面试，大大缩短招聘周期和成本。
 
-### 小程序二维码
+     2 ·企事业举办活动，知识竞赛，可以在某一个时间段发布活动，供用户参加比赛。
 
-![](https://bmob-cdn-19897.bmobcloud.com/2019/06/12/d72e06b44050e8f380e4151bf677dfc9.jpg)
+     3 ·培训认证考试。培训机构结业认证考核，行业从业资格认证，能力认证考核等，题答答提供从考生报名到参加考试的全流程功能。
+     无限制题库刷题，错题训练，答案解析，错题本重练，让刷题不止追求量，也有质的保障，帮助考生更熟练地掌握知识点，
+     提高考试通过率。   
+
+
+### 部署文档
+https://www.kancloud.cn/mamba/treasure
+
+### 功能详情
+<img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2024-07-16/6430e0c55aef0db89c11f9eb8584b337.png">
