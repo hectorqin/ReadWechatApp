@@ -3,10 +3,26 @@
 ## 介绍
 微信小程序，考试小程序，答题小程序，刷题小程序。支持PC,H5,小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试，企业内部考核，内部培训等，职业考试刷题；
 
-## 合作&&定制
+### 原创作品，请尊重原创！
 
-如果您是某某培训机构，学校，政府，公司，事业单位，需要单独搭建程序的，**[欢迎点击主页查看联系方式](https://gitee.com/kesixin)**，可以提供部署和定制开发服务。
+### 个人微信(kossfirst)
 
+![微信](https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2023-01-16/fb8705c3c265445c0f19d72c1dd1e807.jpeg)
+
+
+### 个人QQ(903363777)
+
+![QQ](https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2023-01-16/fd7054c9016fcf2dbf3144881bdfec88.jpeg)
+
+### 微信公众号
+![](https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2024-03-01/df75bce97c6bda96bb5958a987b1dc90.jpg)
+
+## 项目演示 📸
+
+为了帮助你快速了解功能和界面设计，我们准备了一些关键的演示：
+
+### 扫码，体验在线答题系统
+![用户答题界面](https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2025-02-10/40969c23ef55947167891f706b78cc14.jpg) 
 
 
 ## 小程序功能截图
