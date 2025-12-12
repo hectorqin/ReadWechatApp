@@ -13,8 +13,6 @@
 
 ![QQ](https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2023-01-16/fd7054c9016fcf2dbf3144881bdfec88.jpeg)
 
-### 微信公众号
-![](https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2024-03-01/df75bce97c6bda96bb5958a987b1dc90.jpg)
 
 ## 项目演示 📸
 
@@ -58,6 +56,7 @@ https://www.kancloud.cn/mamba/treasure
 
 ### 功能详情
 <img src = "https://mamba-blog-images.oss-cn-shanghai.aliyuncs.com/2024-07-16/6430e0c55aef0db89c11f9eb8584b337.png">
+
 
 
 
