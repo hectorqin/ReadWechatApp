@@ -1,4 +1,4 @@
-<!--pages/analysis/index.wxml-->
+
 <view class='page'>
   <i-spin fix size="large" wx:if="{{loading}}"></i-spin>
   <view class="header-model2 css-shadow-bottom">
