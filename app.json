@@ -21,6 +21,7 @@
     "navigationBarBackgroundColor": "#2db7f5",
     "navigationBarTitleText": "答题酷",
     "navigationBarTextStyle": "#fff"
+    
   },
   "tabBar": {
     "selectedColor": "#2db7f5",
