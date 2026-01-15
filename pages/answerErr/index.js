@@ -11,6 +11,7 @@ Page({
     }
     ],
   },
+  
   onClick(e) {
     console.log(e)
     const { index } = e.detail
