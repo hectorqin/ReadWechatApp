@@ -1,5 +1,6 @@
 Component({
     externalClasses: ['wux-class', 'wux-hover-class'],
+    
     properties: {
         type: {
             type: String,
