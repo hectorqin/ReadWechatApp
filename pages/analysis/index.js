@@ -3,7 +3,6 @@ Page({
   /**
    * 页面的初始数据
    */
-  
   data: {
     s: ['A. ', 'B. ', 'C. ', 'D. ', 'E. '],
     questionInfo:{},
