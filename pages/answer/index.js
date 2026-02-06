@@ -2,7 +2,6 @@
 import { $wuxCountDown } from '../../wux/index'
 const { $Message } = require('../../dist/base/index');
 Page({
-
   data: {
     loading: true, //加载中
     result: {}, //题目
