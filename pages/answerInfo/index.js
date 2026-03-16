@@ -9,7 +9,6 @@ Page({
     questionMenu:'',
     questionNum:''
   },
-  
   onLoad (e) {
     var id = e.id
     var questionMenu = e.questionMenu
