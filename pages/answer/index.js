@@ -65,7 +65,6 @@ Page({
     ],
     showVideo:false
   },
-
   onLoad(e) {
     var that = this;
     var menu = e.id;
