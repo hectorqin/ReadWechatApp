@@ -12,7 +12,6 @@ Page({
     score:0,
     average:0
   },
-
   onLoad (options) {
     var objectId = options.id
     wx.u.getHistory(objectId).then(res=>{
