@@ -24,6 +24,7 @@ Page({
       })
     })
   },
+  
   start(){
     wx.reLaunch({
       url: '/pages/answer/index?id=' + this.data.id + '&questionMenu=' + this.data.questionMenu
