@@ -8,6 +8,7 @@ Page({
     hasUserInfo: false,
     canIUseGetUserProfile: false,
   },
+  
   onLoad(e) {
     var that = this;
     if (wx.getUserProfile) {
