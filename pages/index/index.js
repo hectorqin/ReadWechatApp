@@ -20,6 +20,7 @@ Page({
       userInfo:wx.getStorageSync('userInfo')
     })
   },
+  
   bindgetuserinfo() {
     var that = this;
     wx.getUserInfo({
