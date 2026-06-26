@@ -15,7 +15,6 @@ Page({
     showVideo: false,
     showHelpVideo:false
   },
-
   onLoad (options) {
     var that = this;
     wx.getSystemInfo({
