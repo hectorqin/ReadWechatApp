@@ -3,6 +3,7 @@
   <view class='selectIcon'>
     <image src='/images/error.png' class='answer'></image>
   </view>
+
   <picker bindchange='changeMenu' value="{{index}}" range="{{questionMenu}}">
     <view class='selectQuestionMenu'>
       {{selectQuestionMenu}}
