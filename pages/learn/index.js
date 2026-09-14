@@ -187,6 +187,7 @@ Page({
 
   },
 
+  
   changeTab(e) {
     var that = this
     that.setData({
