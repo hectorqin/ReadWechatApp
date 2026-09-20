@@ -57,6 +57,7 @@ Page({
 
   },
 
+  
   onUnload: function() {
     // console.log(this.data.indexInd)
     // var cateid = this.data.cateid
