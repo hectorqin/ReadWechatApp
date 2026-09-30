@@ -30,6 +30,7 @@ Page({
   },
 
   goquestion (e){
+    
     var cateid = e.currentTarget.dataset.cateid
     var menu = e.currentTarget.dataset.menu
     if(this.data.action == 'learn')
